@@ -1,1 +1,8 @@
-
+<notification>
+  <title>Welcome!</title>
+  <date>5/5/2021 14:00</date>
+  <author>Zapschedule team</author>
+  <desc>Welcome to Zapschedule, this is a test RSS post. </desc>
+  <url>https://www.google.com</url>
+</notification>
+ 
